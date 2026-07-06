@@ -5,7 +5,6 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadasenhaji&label=Profile%20views&color=0e75b6&style=flat" alt="nadasenhaji" /> </p>
 
-- 🔭 I’m currently working on **HpsApp**
 
 - 🌱 I’m currently learning **Spring AI || Spring Security || React.js**
 
